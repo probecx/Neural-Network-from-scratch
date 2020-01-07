@@ -90,7 +90,7 @@ class NeuralNetwork(object):
     Examples
     ---
     >>> import NeuralNetwork
-    >>> nn = NeuralNetword([2, 3, 4, 1])
+    >>> nn = NeuralNetwork([2, 3, 4, 1])
     
     This means :
     1 input layer with 2 neurons
